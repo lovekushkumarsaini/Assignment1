@@ -2,3 +2,5 @@
 
 At last, we will go towards the second assignment.
 We will built a help-desk by using Html, css, Javascript.
+
+Requirement: Html, css, javascript and litle bit knowledge of react.
